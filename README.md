@@ -37,7 +37,8 @@ This repository provides the following files:
 - [`sample-challenge.md`](https://github.com/jeff1evesque/interview-baidu/blob/master/exercise/sample-challenge.md):
  an example of what to expect for the coding exercise portion of the interview.
 - [`challenge.md`](https://github.com/jeff1evesque/interview-baidu/blob/master/exercise/challenge.md):
- the actual exercise portion given.
+ the second half of the technical interview.
 - [`starting_point.cpp`](https://github.com/jeff1evesque/interview-baidu/blob/master/exercise/starting_point.cpp):
- the provided script for the second half of the interview, required for the
- second half of the interview (i.e. coding exercise).
+ the provided script for the second half of the interview (i.e. coding exercise).
+- [`challenge.cpp`](https://github.com/jeff1evesque/interview-baidu/blob/master/challenge.cpp):
+ the final completed exercise.
