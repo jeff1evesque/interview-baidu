@@ -1,5 +1,5 @@
 # Baidu Research
-##Software Engineer
+### Software Engineer
 
 Baidu Research, headquartered in Silicon Valley, is looking for engineers with
  strong programming, development skills and experience. Our mission is to
