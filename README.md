@@ -8,26 +8,6 @@ Some time ago, I received an exercise from Baidu's [artificial intelligence labs
  even though you didn't click proceed to the second half of the interview (i.e. [coding exercise](https://github.com/jeff1evesque/interview-baidu/blob/master/exercise/challenge.md#section-2-coding-challenge-50-minutes)).
  Nevertheless, it was fun having never programmed in C++ (reason why I'm uploading this).
 
-## Configuration
-
-### GIT
-
-Fork this project in your GitHub account, then clone your repository:
-
-```
-cd /var/www/
-sudo git clone https://[YOUR-USERNAME]@github.com/[YOUR-USERNAME]/interview-baidu.git
-```
-
-Then, change the *file permissions* for the entire project by issuing the command:
-
-```
-cd /var/www/interview-peloton/
-sudo chown -R jeffrey:sudo interview-baidu
-```
-
-**Note:** change 'jeffrey' to the user account YOU use. 
-
 ## Exercise
 
 This repository provides the following files:
