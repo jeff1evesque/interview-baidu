@@ -1,4 +1,4 @@
-# Section 1: Pop Quiz (10 minutes)
+## Section 1: Pop Quiz (10 minutes)
 
 A series of terms will be presented to you, and for each term you will be given
  60 seconds to write a brief response explaining the meaning or significance of
@@ -11,7 +11,7 @@ Do not worry if you come across a term you are unfamiliar with. For unfamiliar
  terms, feel free to use word association. For example, if you are prompted
  MySQL, you can write some data storage
 
-# Section 2: Coding Challenge (50 minutes)
+## Section 2: Coding Challenge (50 minutes)
 
 The challenge can be taken in your local environment or an online editor.
 
@@ -42,3 +42,7 @@ For example,
  //  ConflictedTimeWindow("2014-01-02 10:00", "2014-01-02 11:00", { 4, 5, 6 }),
  //  ConflictedTimeWindow("2014-01-02 11:00", "2014-01-02 11:30", { 5, 6 }]
 ```
+
+**Note:** a supplied [`starting_point.cpp`](https://github.com/jeff1evesque/interview-baidu/blob/master/exercise/starting_point.cpp)
+ was provided within an online editor.  It had the option of being
+ downloadable, which probably gets uploaded back into the interview window.
